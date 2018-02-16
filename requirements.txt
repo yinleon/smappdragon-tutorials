@@ -1,0 +1,4 @@
+smappdragon
+tweepy
+pandas
+nltk
